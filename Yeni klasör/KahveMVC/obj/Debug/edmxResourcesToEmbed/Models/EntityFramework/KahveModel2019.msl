@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="kahve2019ModelStoreContainer" CdmEntityContainer="kahve2019Entities">
+    <EntitySetMapping Name="anasayfa">
+      <EntityTypeMapping TypeName="kahve2019Model.anasayfa">
+        <MappingFragment StoreEntitySet="anasayfa">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="ustBaslik" ColumnName="ustBaslik" />
+          <ScalarProperty Name="ustIcerik" ColumnName="ustIcerik" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="altBaslik" ColumnName="altBaslik" />
+          <ScalarProperty Name="altIcerik" ColumnName="altIcerik" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hakkimizda">
+      <EntityTypeMapping TypeName="kahve2019Model.hakkimizda">
+        <MappingFragment StoreEntitySet="hakkimizda">
+          <ScalarProperty Name="icerik" ColumnName="icerik" />
+          <ScalarProperty Name="baslik" ColumnName="baslik" />
+          <ScalarProperty Name="ustBaslik" ColumnName="ustBaslik" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="magaza">
+      <EntityTypeMapping TypeName="kahve2019Model.magaza">
+        <MappingFragment StoreEntitySet="magaza">
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="anaBaslik" ColumnName="anaBaslik" />
+          <ScalarProperty Name="ustBaslik" ColumnName="ustBaslik" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="magazasaat">
+      <EntityTypeMapping TypeName="kahve2019Model.magazasaat">
+        <MappingFragment StoreEntitySet="magazasaat">
+          <ScalarProperty Name="saat" ColumnName="saat" />
+          <ScalarProperty Name="gun" ColumnName="gun" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kullanici">
+      <EntityTypeMapping TypeName="kahve2019Model.kullanici">
+        <MappingFragment StoreEntitySet="kullanici">
+          <ScalarProperty Name="sifre" ColumnName="sifre" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="iletisimformu">
+      <EntityTypeMapping TypeName="kahve2019Model.iletisimformu">
+        <MappingFragment StoreEntitySet="iletisimformu">
+          <ScalarProperty Name="tarih" ColumnName="tarih" />
+          <ScalarProperty Name="izin" ColumnName="izin" />
+          <ScalarProperty Name="cinsiyet" ColumnName="cinsiyet" />
+          <ScalarProperty Name="mesaj" ColumnName="mesaj" />
+          <ScalarProperty Name="eposta" ColumnName="eposta" />
+          <ScalarProperty Name="adSoyad" ColumnName="adSoyad" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="urunler">
+      <EntityTypeMapping TypeName="kahve2019Model.urunler">
+        <MappingFragment StoreEntitySet="urunler">
+          <ScalarProperty Name="sira" ColumnName="sira" />
+          <ScalarProperty Name="aktif" ColumnName="aktif" />
+          <ScalarProperty Name="icerik" ColumnName="icerik" />
+          <ScalarProperty Name="ustBaslik" ColumnName="ustBaslik" />
+          <ScalarProperty Name="baslik" ColumnName="baslik" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

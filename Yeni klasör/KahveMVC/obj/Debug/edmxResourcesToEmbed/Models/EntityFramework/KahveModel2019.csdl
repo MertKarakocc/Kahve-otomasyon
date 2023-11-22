@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kahve2019Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="anasayfa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="foto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ustBaslik" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ustIcerik" Type="String" MaxLength="6000" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="link" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="altBaslik" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="altIcerik" Type="String" MaxLength="6000" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="kahve2019Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="anasayfa" EntityType="Self.anasayfa" />
+    <EntitySet Name="hakkimizda" EntityType="kahve2019Model.hakkimizda" />
+    <EntitySet Name="magaza" EntityType="kahve2019Model.magaza" />
+    <EntitySet Name="magazasaat" EntityType="kahve2019Model.magazasaat" />
+    <EntitySet Name="kullanici" EntityType="kahve2019Model.kullanici" />
+    <EntitySet Name="iletisimformu" EntityType="kahve2019Model.iletisimformu" />
+    <EntitySet Name="urunler" EntityType="kahve2019Model.urunler" />
+  </EntityContainer>
+  <EntityType Name="hakkimizda">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="foto" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ustBaslik" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="baslik" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="icerik" Type="String" Nullable="false" MaxLength="65535" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="magaza">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ustBaslik" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="anaBaslik" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="adres" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="telefon" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="magazasaat">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="gun" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="saat" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="kullanici">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ad" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="sifre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="iletisimformu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="adSoyad" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="eposta" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="mesaj" Type="String" Nullable="false" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="cinsiyet" Type="Boolean" Nullable="false" />
+    <Property Name="izin" Type="Boolean" Nullable="false" />
+    <Property Name="tarih" Type="DateTime" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="urunler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="foto" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="baslik" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="ustBaslik" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="icerik" Type="String" Nullable="false" MaxLength="65535" FixedLength="false" Unicode="false" />
+    <Property Name="aktif" Type="Boolean" Nullable="false" />
+    <Property Name="sira" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kahve2019Model.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.7" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="anasayfa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="foto" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="ustBaslik" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="ustIcerik" Type="varchar" MaxLength="6000" Nullable="false" />
+    <Property Name="link" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="altBaslik" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="altIcerik" Type="varchar" MaxLength="6000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="hakkimizda">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="foto" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="ustBaslik" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="baslik" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="icerik" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="iletisimformu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="adSoyad" Type="char" MaxLength="100" Nullable="false" />
+    <Property Name="eposta" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="mesaj" Type="text" Nullable="false" />
+    <Property Name="cinsiyet" Type="bit" Nullable="false" />
+    <Property Name="izin" Type="bit" Nullable="false" />
+    <Property Name="tarih" Type="datetime" Precision="0" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="kullanici">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="sifre" Type="char" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="magaza">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ustBaslik" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="anaBaslik" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="adres" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="telefon" Type="char" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="magazasaat">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="gun" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="saat" Type="char" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="urunler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="foto" Type="char" MaxLength="50" Nullable="false" />
+    <Property Name="baslik" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="ustBaslik" Type="char" MaxLength="250" Nullable="false" />
+    <Property Name="icerik" Type="text" Nullable="false" />
+    <Property Name="aktif" Type="bit" Nullable="false" />
+    <Property Name="sira" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="kahve2019ModelStoreContainer">
+    <EntitySet Name="anasayfa" EntityType="Self.anasayfa" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="hakkimizda" EntityType="Self.hakkimizda" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="iletisimformu" EntityType="Self.iletisimformu" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="kullanici" EntityType="Self.kullanici" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="magaza" EntityType="Self.magaza" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="magazasaat" EntityType="Self.magazasaat" Schema="kahve2019" store:Type="Tables" />
+    <EntitySet Name="urunler" EntityType="Self.urunler" Schema="kahve2019" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

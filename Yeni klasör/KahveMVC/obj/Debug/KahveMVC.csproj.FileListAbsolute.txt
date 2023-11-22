@@ -1,0 +1,643 @@
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVC 2 - Kopya\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin2\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin3\KahveMVC\obj\Debug\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.dll.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.pdb
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.AppContext.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Console.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Compression.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Claims.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.ValueTuple.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.rsp
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\VBCSCompiler.exe
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\EntityFramework.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Helpers.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Mvc.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Razor.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\EntityFramework.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Razor.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Helpers.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\System.Web.Mvc.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.dll
+H:\MESUT\2018-2019\11u wtp\uygulama\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.pdb
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.dll.config
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\KahveMVC.pdb
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.exe
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.exe.config
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csc.rsp
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.exe
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.exe.config
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\csi.rsp
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.AppContext.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Console.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Compression.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Claims.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.ValueTuple.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.exe
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.exe.config
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\vbc.rsp
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\VBCSCompiler.exe
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\EntityFramework.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Helpers.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Mvc.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Razor.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Razor.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\EntityFramework.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Razor.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Webpages.Razor.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Helpers.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\System.Web.Mvc.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\desktop\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+D:\desktop\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+D:\desktop\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.dll
+D:\desktop\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.pdb
+D:\desktop\KahveMVCAdmin4\KahveMVC\obj\Debug\KahveMVC.csprojAssemblyReference.cache
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\KahveMVC.dll.config
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\KahveMVC.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\KahveMVC.pdb
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csc.exe
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csc.exe.config
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csc.rsp
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csi.exe
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csi.exe.config
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\csi.rsp
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.AppContext.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Console.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\vbc.exe
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\vbc.exe.config
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\vbc.rsp
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\EntityFramework.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Helpers.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Mvc.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Razor.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\EntityFramework.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Razor.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Helpers.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\System.Web.Mvc.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.csproj.AssemblyReference.cache
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.csproj.CopyComplete
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.dll
+C:\Users\mert-\Desktop\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.pdb
+D:\Yeni klasör\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.csproj.AssemblyReference.cache
+D:\Yeni klasör\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.dll
+D:\Yeni klasör\Yeni klasör\KahveMVC\obj\Debug\KahveMVC.pdb
